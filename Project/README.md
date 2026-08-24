@@ -98,7 +98,7 @@ plt.show()
 
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [3_Skills_Trend](3_Skills_Trend.ipynb).
+View my notebook with detailed steps here: [3_Skills_Trend](Project/03_skills_trend.ipynb).
 
 ### Visualize Data
 
@@ -117,7 +117,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](images/Trending_Top_Skills_for_Data_Analysts_in_the_US.png)  
+![Trending Top Skills for Data Analysts in the US](03_skills_trend_image.png)  
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
