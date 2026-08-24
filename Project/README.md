@@ -67,7 +67,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
 
-View my notebook with detailed steps here: [2_Skill_Demand](Project/02_skills_count.ipynb).
+View my notebook with detailed steps here: [2_Skill_Count](Project/02_skills_count.ipynb).
 
 ### Visualize Data
 
@@ -84,7 +84,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the US Job Postings](02_skill_count_image.png)
+![Likelihood of Skills Requested in the US Job Postings](image.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -117,7 +117,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](03_skills_trend_image.png)  
+![Trending Top Skills for Data Analysts in the US](image-1.png) 
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
